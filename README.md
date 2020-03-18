@@ -2,6 +2,6 @@
 
 #### Pulled in a second data set from https://github.com/fraxen/tectonicplates.  Drew tectonic plate lines on the Leaflet map with different base maps and layer controls.
 
-![Screenshot]("Capture.JPG")
+![Screenshot](Capture.JPG)
 
 
